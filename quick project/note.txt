@@ -1,0 +1,51 @@
+note;
+..................
+h1:
+It's time to amplify your online business 
+
+p;;
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
+
+color:
+..........................
+sky blue:#008aff
+navy blue:#0f2656
+orange:#f15767
+pink:#fdebed
+green:#ebf9f4
+yellow:#fff7e8
+
+.....................
+3k+ 
+..............
+h succ:
+Successfully completed projects & ideas 
+
+succ p:
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+............................
+unlesh h:
+Unleash you creativity 
+............
+unlesh p:
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cilium dolore eu fugiat nulla pariatur. 
+...........................
+footer:
+© Copyright by LED P SHERPUR. All right Reserved 2020 
+.....................
+footer bcg color:
+#008aff
+hilight font:
+#f6f5ff
+
+
+
+.....................
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
